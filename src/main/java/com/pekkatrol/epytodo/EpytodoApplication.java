@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EpytodoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EpytodoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EpytodoApplication.class, args);
+    }
 
 }
